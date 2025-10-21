@@ -283,11 +283,21 @@
         .project-image {
             width: 100%;
             height: 200px;
-            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
             display: flex;
             align-items: center;
             justify-content: center;
             font-size: 3rem;
+        }
+        #first {
+            background: url('../Assets/Screenshot 2025-10-22 000513.png') no-repeat center center/cover;
+        }
+
+        #second {
+            background: url('Assets/Screenshot 2025-10-22 000621.png') no-repeat center center/cover;
+        }
+
+        #third {
+            background: url('Assets/Screenshot 2025-10-22 000642.png') no-repeat center center/cover;
         }
 
         .project-content {
